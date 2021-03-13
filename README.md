@@ -1,24 +1,6 @@
-# README
+# Ruby on Rails Sample Application
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This application demonstrates that I, for the most part, possess the ability to follow a simple tutorial ([Getting Started with Rails](https://guides.rubyonrails.org/v5.0/getting_started.html)). It doesn't do much currently but please check back regularly for updates. Thanks!.
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* Ruby version 2.7.2
+* Rails version 6.1.3
